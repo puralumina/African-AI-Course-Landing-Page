@@ -63,13 +63,13 @@ const FinalCTA = () => {
           {/* Pricing */}
           <div className="bg-white bg-opacity-15 rounded-2xl p-8 mb-8">
             <div className="flex items-center justify-center mb-6">
-              <Clock className="h-6 w-6 mr-2 text-yellow-400" />
+              <Clock className="h-6 w-6 mr-2 text-orange-400" />
               <span className="text-lg font-semibold">Offer expires in 48 hours</span>
             </div>
             
             <div className="text-center mb-6">
               <div className="text-lg opacity-75 line-through">Regular Price: $399</div>
-              <div className="text-5xl font-bold text-orange-400 mb-2">$49</div>
+              <div className="text-5xl font-bold text-orange-700 mb-2">$49</div>
               <div className="text-lg opacity-90">One-time payment • Lifetime access</div>
             </div>
 
