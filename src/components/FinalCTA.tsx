@@ -28,7 +28,7 @@ const FinalCTA = () => {
             <p className="text-sm opacity-90 mt-2">
               Price increases to $399 after this promotion ends
             </p>
-          </div><br></br>
+          </div><br></br><br></br>
 
           {/* Pricing */}
           <div className="bg-white bg-opacity-20 rounded-2xl p-8 mb-8">
@@ -68,7 +68,7 @@ const FinalCTA = () => {
               <CheckCircle className="h-5 w-5 mr-2" />
               <span>30-Day Money-Back Guarantee</span>
             </div>
-          </div>
+          </div><br></br><br></br>
           
           {/* Transform Your Life */}
 
