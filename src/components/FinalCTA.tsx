@@ -2,13 +2,6 @@ import React from 'react';
 import { Gift, Clock, CheckCircle, Shield } from 'lucide-react';
 
 const FinalCTA = () => {
-  const benefits = [
-    "Complete 26-lesson AI website building course",
-    "Lifetime access to all course materials and future updates",
-    "Private community",
-    "Weekly live Q&A sessions",
-    "30-day money-back guarantee"
-  ];
 
   return (
     <section id="final-cta" className="py-16 bg-gradient-to-br from-blue-600 to-purple-700 text-white">
