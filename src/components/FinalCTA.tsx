@@ -36,7 +36,7 @@ const FinalCTA = () => {
             className="inline-block bg-green-500 hover:bg-green-600 text-white px-12 py-6 rounded-xl font-bold text-2xl transition-all duration-200 transform hover:scale-105 shadow-2xl mb-6 w-full sm:w-auto text-center"
           >
             Get Instant Access Now
-          </a><br></br>
+          </a>
 
           {/* Security Badges */}
           <div className="flex items-center justify-center space-x-6 text-sm opacity-75">
@@ -48,7 +48,7 @@ const FinalCTA = () => {
               <CheckCircle className="h-5 w-5 mr-2" />
               <span>30-Day Money-Back Guarantee</span>
             </div>
-          </div>
+          </div><br></br><br></br>
 
           {/* Pricing */}
           <div className="bg-white bg-opacity-20 rounded-2xl p-8 mb-8">
