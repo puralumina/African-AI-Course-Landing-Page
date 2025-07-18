@@ -28,7 +28,7 @@ const FinalCTA = () => {
             <p className="text-sm opacity-90 mt-2">
               Price increases to $399 after this promotion ends
             </p>
-          </div><br><br>
+          </div><br></br>
 
           {/* Pricing */}
           <div className="bg-white bg-opacity-20 rounded-2xl p-8 mb-8">
