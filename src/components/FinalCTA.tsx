@@ -20,6 +20,14 @@ const FinalCTA = () => {
             <span className="font-bold">LIMITED TIME OFFER</span>
           </div>
 
+          <h2 className="text-4xl md:text-6xl font-bold mb-6">
+            Transform Your Life Today
+          </h2>
+          
+          <p className="text-xl md:text-2xl mb-8 opacity-90">
+            Join thousands of Africans earning $5,000+ monthly with AI websites
+          </p>
+
           {/* Main CTA Button */}
           <a 
             href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05"
@@ -41,14 +49,6 @@ const FinalCTA = () => {
               <span>30-Day Money-Back Guarantee</span>
             </div>
           </div>
-
-          <h2 className="text-4xl md:text-6xl font-bold mb-6">
-            Transform Your Life Today
-          </h2>
-          
-          <p className="text-xl md:text-2xl mb-8 opacity-90">
-            Join thousands of Africans earning $5,000+ monthly with AI websites
-          </p>
 
           {/* Pricing */}
           <div className="bg-white bg-opacity-20 rounded-2xl p-8 mb-8">
