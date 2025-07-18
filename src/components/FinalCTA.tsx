@@ -69,7 +69,7 @@ const FinalCTA = () => {
             
             <div className="text-center mb-6">
               <div className="text-lg opacity-75 line-through">Regular Price: $399</div>
-              <div className="text-5xl font-bold text-orange-700 mb-2">$49</div>
+              <div className="text-7xl font-bold text-orange-400 mb-2">$49</div>
               <div className="text-lg opacity-90">One-time payment • Lifetime access</div>
             </div>
 
