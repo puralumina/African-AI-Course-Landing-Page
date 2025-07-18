@@ -81,7 +81,7 @@ const FinalCTA = () => {
           {/* Benefits Checklist */}
           <div className="space-y-4 mb-8">
             {benefits.map((benefit, index) => (
-              <div key={index} className="flex items-center justify-center text-left">
+              <div key={index} className="flex items-center justify-left text-left">
                 <CheckCircle className="h-6 w-6 text-green-400 mr-3 flex-shrink-0" />
                 <span className="text-lg">{benefit}</span>
               </div>
