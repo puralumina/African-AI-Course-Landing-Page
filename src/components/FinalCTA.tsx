@@ -15,7 +15,7 @@ const FinalCTA = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           {/* Limited Time Offer Badge */}
-          <div className="inline-flex items-center bg-red-500 text-white px-6 py-3 rounded-full mb-8 animate-pulse">
+          <div className="inline-flex items-center bg-orange-500 text-white px-6 py-3 rounded-full mb-8 animate-pulse">
             <Gift className="h-5 w-5 mr-2" />
             <span className="font-bold">LIMITED TIME OFFER</span>
           </div>
