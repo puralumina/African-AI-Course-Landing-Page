@@ -61,7 +61,7 @@ const FinalCTA = () => {
           </div><br></br><br></br>
 
           {/* Pricing */}
-          <div className="bg-orange bg-opacity-80 rounded-2xl p-8 mb-8">
+          <div className="bg-blue bg-opacity-80 rounded-2xl p-8 mb-8">
             <div className="flex items-center justify-center mb-6">
               <Clock className="h-6 w-6 mr-2 text-yellow-400" />
               <span className="text-lg font-semibold">Offer expires in 48 hours</span>
