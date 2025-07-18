@@ -11,7 +11,7 @@ const FinalCTA = () => {
   ];
 
   return (
-    <section id="final-cta" className="py-16 bg-gradient-to-br from-black to-orange-500 text-white">
+    <section id="final-cta" className="py-16 bg-gradient-to-br from-black to-orange-700 text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           {/* Limited Time Offer Badge */}
