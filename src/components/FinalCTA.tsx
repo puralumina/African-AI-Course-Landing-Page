@@ -30,14 +30,6 @@ const FinalCTA = () => {
             </p>
           </div>
 
-          <h2 className="text-4xl md:text-6xl font-bold mb-6">
-            Transform Your Life Today
-          </h2>
-          
-          <p className="text-xl md:text-2xl mb-8 opacity-90">
-            Join thousands of Africans earning $5,000+ monthly with AI websites
-          </p>
-
           {/* Pricing */}
           <div className="bg-white bg-opacity-20 rounded-2xl p-8 mb-8">
             <div className="flex items-center justify-center mb-6">
@@ -54,16 +46,6 @@ const FinalCTA = () => {
             <div className="bg-green-500 text-white px-4 py-2 rounded-lg inline-block font-semibold">
               Save $350 Today (90% OFF)
             </div>
-          </div>
-
-          {/* Benefits Checklist */}
-          <div className="space-y-4 mb-8">
-            {benefits.map((benefit, index) => (
-              <div key={index} className="flex items-center justify-center text-left">
-                <CheckCircle className="h-6 w-6 text-green-400 mr-3 flex-shrink-0" />
-                <span className="text-lg">{benefit}</span>
-              </div>
-            ))}
           </div>
 
           {/* Main CTA Button */}
@@ -86,6 +68,26 @@ const FinalCTA = () => {
               <CheckCircle className="h-5 w-5 mr-2" />
               <span>30-Day Money-Back Guarantee</span>
             </div>
+          </div>
+          
+          {/* Transform Your Life */}
+
+          <h2 className="text-4xl md:text-6xl font-bold mb-6">
+            Transform Your Life Today
+          </h2>
+          
+          <p className="text-xl md:text-2xl mb-8 opacity-90">
+            Join thousands of Africans earning $5,000+ monthly with AI websites
+          </p>
+
+          {/* Benefits Checklist */}
+          <div className="space-y-4 mb-8">
+            {benefits.map((benefit, index) => (
+              <div key={index} className="flex items-center justify-center text-left">
+                <CheckCircle className="h-6 w-6 text-green-400 mr-3 flex-shrink-0" />
+                <span className="text-lg">{benefit}</span>
+              </div>
+            ))}
           </div>
 
           {/* Urgency Message */}
