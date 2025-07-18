@@ -4,10 +4,10 @@ import { Gift, Clock, CheckCircle, Shield } from 'lucide-react';
 const FinalCTA = () => {
   const benefits = [
     "Complete 26-lesson AI website building course",
-    "Lifetime access to all course materials and future updates",
     "Private community",
     "Weekly live Q&A sessions",
-    "30-day money-back guarantee"
+    "30-day money-back guarantee",
+    "Lifetime access to all course materials and future updates"
   ];
 
   return (
