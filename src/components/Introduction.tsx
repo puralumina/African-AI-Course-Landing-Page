@@ -123,7 +123,7 @@ const testimonials = [
     location: "Abuja, Nigeria",
     earnings: "₦1,200,000/month",
     text: "The step-by-step approach made it so easy. I now earn ₦1.2M monthly building websites for clients. My site gave me credibility and more leads.",
-    image: "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/33022043/pexels-photo-33022043.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Thabo Mokoena",
