@@ -60,7 +60,7 @@ const testimonials = [
     location: "Kisumu, Kenya",
     earnings: "KSh85,000/month",
     text: "I dropped out of school but now I earn KSh85,000 monthly building websites for local startups. My website made people believe in me and my skills.",
-    image: "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/6353131/pexels-photo-6353131.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Nana Yaa Boateng",
