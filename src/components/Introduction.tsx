@@ -81,7 +81,7 @@ const testimonials = [
     location: "Takoradi, Ghana",
     earnings: "GH₵10,000/month",
     text: "This course gave me a new career. I now build websites for clients and earn GH₵10,000 monthly. A professional website helped me win trust and repeat business.",
-    image: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/30929470/pexels-photo-30929470.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Zinhle Dlamini",
