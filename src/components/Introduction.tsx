@@ -109,7 +109,7 @@ const testimonials = [
     location: "Cape Town, South Africa",
     earnings: "R40,000/month",
     text: "I learned how to build websites and now I earn R40,000 per month. Clients trust me more now that I have a professional-looking site and portfolio.",
-    image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/691989/pexels-photo-691989.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Abena Mensah",
