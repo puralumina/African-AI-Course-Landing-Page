@@ -88,7 +88,7 @@ const testimonials = [
     location: "Pietermaritzburg, South Africa",
     earnings: "R25,000/month",
     text: "I used to sell crafts at the market. Now I earn R25,000 monthly from my own online store. A clean website made people trust me and buy more.",
-    image: "https://images.pexels.com/photos/1848565/pexels-photo-1848565.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/2242121/pexels-photo-2242121.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Chinedu Eze",
