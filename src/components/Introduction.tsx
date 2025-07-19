@@ -101,7 +101,7 @@ const Introduction = () => {
               <img
                 src="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
                 alt="Emmanuel - Course Creator"
-                className="w-64 h-64 rounded-4xl mx-auto lg:mx-0 object-cover shadow-2xl"
+                className="w-64 h-64 rounded-2xl mx-auto lg:mx-0 object-cover shadow-2xl"
               />
               <div className="absolute -bottom-4 -right-4 bg-orange-500 text-white px-4 py-2 rounded-full font-semibold">
                 5+ Years Experience
