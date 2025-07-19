@@ -125,7 +125,7 @@ const testimonials = [
     text: "The step-by-step approach made it so easy. I now earn ₦1.2M monthly building websites for clients. My site gave me credibility and more leads.",
     image: "https://images.pexels.com/photos/33022043/pexels-photo-33022043.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
-  {
+  /*{
     name: "Thabo Mokoena",
     location: "Pretoria, South Africa",
     earnings: "R32,000/month",
@@ -159,7 +159,7 @@ const testimonials = [
     earnings: "KSh100,000/month",
     text: "I used to teach part-time. Now I run my own AI business and earn KSh100,000 monthly. My website made clients trust me and pay more for my services.",
     image: "https://images.pexels.com/photos/2660372/pexels-photo-2660372.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
-  },
+  },*/
   {
     name: "Kwame Addo",
     location: "Cape Coast, Ghana",
