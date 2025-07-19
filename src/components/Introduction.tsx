@@ -151,7 +151,7 @@ const testimonials = [
     location: "Mombasa, Kenya",
     earnings: "KSh110,000/month",
     text: "From driving a tuktuk to building AI-powered websites, I now earn KSh110,000 monthly. Clients trust me more because I have a professional website.",
-    image: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/2495256/pexels-photo-2495256.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Wanjiru Kamau",
