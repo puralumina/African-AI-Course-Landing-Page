@@ -5,33 +5,23 @@ const ValueProposition = () => {
   const benefits = [
     {
       icon: <CheckCircle className="h-8 w-8 text-green-500" />,
-      title: "Step-by-step guidance for beginners",
-      description: "No prior experience needed. We start from the very basics and guide you through every step."
+      title: "No prior experience needed",
+      description: "Whether you're a student, parent, or professional, this course is designed for complete beginners. We start from the very basics and guide you through every step."
     },
     {
       icon: <TrendingUp className="h-8 w-8 text-blue-500" />,
-      title: "Proven strategies for ₦1,500,000 monthly",
-      description: "Battle-tested methods that have helped thousands of Nigerians achieve financial freedom."
+      title: "Proven strategies for earning $4,000+ monthly",
+      description: "Battle-tested methods that have helped 97% of our students achieve financial freedom."
     },
     {
       icon: <Clock className="h-8 w-8 text-purple-500" />,
-      title: "Work just a few hours per week",
-      description: "Spend more time with family while AI handles the heavy lifting of website creation."
-    },
-    {
-      icon: <Users className="h-8 w-8 text-orange-500" />,
-      title: "No prior experience needed",
-      description: "Whether you're a student, parent, or professional, this course is designed for complete beginners."
+      title: "Work less gain more",
+      description: "Enjoy your time while AI handles the heavy lifting of website creation in 5 minutes."
     },
     {
       icon: <Shield className="h-8 w-8 text-green-500" />,
       title: "Lifetime access and support",
       description: "Get lifetime access to all course materials plus ongoing support from our community."
-    },
-    {
-      icon: <Zap className="h-8 w-8 text-yellow-500" />,
-      title: "AI-powered automation",
-      description: "Leverage cutting-edge AI tools to build professional websites in minutes, not months."
     }
   ];
 
@@ -49,7 +39,7 @@ const ValueProposition = () => {
             <span className="text-orange-500"> AI Website Building</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Join thousands of Nigerians who have already transformed their lives using our proven AI website building system.
+            Join thousands of young Africans who have already transformed their lives using our proven AI website building system.
           </p>
         </div>
 
