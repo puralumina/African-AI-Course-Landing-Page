@@ -272,7 +272,13 @@ const testimonials = [
                 Hi, I'm <span className="text-orange-500">Wise Stephen</span>
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed mb-6">
-                For over five years, I’ve helped thousands of students launch online businesses, land clients, and earn life-changing income. After discovering the power of AI, I started teaching Africans how to build professional websites in 5 minutes using powerful and completely free AI tools. You'll learn to create stunning sites for launching your brand, selling products, or offering high-demand services to clients. I’ll reveal the powerful, hidden-gem AI tools the pros use. I will show you my entire workflow plus lots of bonuses. If you want to make real money so fast and in less than a week, this course is for you. Spots at this special discount are limited and once we hit. Enroll now, and you could land your first paying client in as little as 24 hours.
+                For over five years, I’ve helped thousands of students launch online businesses, land clients, and earn life-changing income. After discovering the power of AI, I started teaching Africans how to build professional websites in 5 minutes using powerful and completely free AI tools.
+              </p>
+              <p className="text-lg text-gray-600 leading-relaxed mb-6">
+                You'll learn to create stunning sites for launching your brand, selling products, or offering high-demand services to clients. I’ll reveal the powerful, hidden-gem AI tools the pros use. I will show you my entire workflow plus lots of bonuses. If you want to make real money so fast and in less than a week, this course is for you.
+              </p>
+              <p className="text-lg text-gray-600 leading-relaxed mb-6">
+                Spots at this special discount are limited and once we hit. Enroll now, and you could land your first paying client in as little as 24 hours.
               </p>
               <div className="flex items-center justify-center lg:justify-start gap-4">
                 <div className="text-center">
