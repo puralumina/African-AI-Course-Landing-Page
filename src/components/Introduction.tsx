@@ -74,7 +74,7 @@ const testimonials = [
     location: "Enugu, Nigeria",
     earnings: "₦600,000/month",
     text: "I used to be a receptionist. Now I build websites for clients and earn ₦600,000 monthly. My site made people take me seriously as a web developer.",
-    image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/33052272/pexels-photo-33052272.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Yaw Mensah",
