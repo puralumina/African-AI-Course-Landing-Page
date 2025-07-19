@@ -78,7 +78,7 @@ const ValueProposition = () => {
         </div>
 
         {/* Success Story Showcase */}
-        <div className="bg-gradient-to-r from-slate-900 to-slate-800 rounded-2xl p-8 text-white">
+        <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-gray-900">
           <div className="grid lg:grid-cols-2 gap-8 items-center">
             <div>
               <h3 className="text-3xl font-bold mb-4">Success Story Spotlight</h3>
