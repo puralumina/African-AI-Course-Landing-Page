@@ -11,7 +11,7 @@ const testimonials = [
     location: "Lagos, Nigeria",
     earnings: "₦800,000/month",
     text: "In just my first month, I made ₦800,000 building websites for local businesses. Having a professional portfolio instantly made clients trust me more and I started getting leads daily.",
-    image: "https://images.pexels.com/photos/32981213/pexels-photo-32981213.jpeg?auto=compress&cs=tinysrgb&w=500&h=500&fit=crop"
+    image: "https://images.pexels.com/photos/32981213/pexels-photo-32981213.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Kwame Boateng",
