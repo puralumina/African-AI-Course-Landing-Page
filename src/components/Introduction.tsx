@@ -25,7 +25,7 @@ const testimonials = [
     location: "East London, South Africa",
     earnings: "R13,200/month",
     text: "After being jobless for two years, I built my own online store and earned R13,200 in my first month selling handmade crafts. A professional website made all the difference.",
-    image: "https://images.pexels.com/photos/842980/pexels-photo-842980.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/3636208/pexels-photo-3636208.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Linet Chepkoech",
