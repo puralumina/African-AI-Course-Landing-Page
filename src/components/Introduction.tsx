@@ -53,7 +53,7 @@ const testimonials = [
     location: "Johannesburg, South Africa",
     earnings: "R35,000/month",
     text: "I was unemployed for a year before this. Now I earn R35,000 monthly building websites for local entrepreneurs. My site helped me win clients who trust my work.",
-    image: "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/3059398/pexels-photo-3059398.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Kevin Mutiso",
