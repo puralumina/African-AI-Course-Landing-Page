@@ -4,8 +4,68 @@ import { Star } from 'lucide-react';
 const Introduction = () => {
   const [currentTestimonial, setCurrentTestimonial] = useState(0);
   
-  
+
 const testimonials = [
+  {
+    name: "Kevin Mutiso",
+    location: "Kisumu, Kenya",
+    earnings: "KSh85,000/month",
+    text: "I dropped out of school but now I earn KSh85,000 monthly building websites for local startups. My website made people believe in me and my skills.",
+    image: "https://images.pexels.com/photos/6353131/pexels-photo-6353131.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Thandiwe Zulu",
+    location: "Johannesburg, South Africa",
+    earnings: "R35,000/month",
+    text: "I was unemployed for a year before this. Now I earn R35,000 monthly building websites for local entrepreneurs. My site helped me win clients who trust my work.",
+    image: "https://images.pexels.com/photos/30092665/pexels-photo-30092665.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Kwame Boateng",
+    location: "Accra, Ghana",
+    earnings: "GH₵12,000/month",
+    text: "I now earn GH₵12,000 monthly by building AI-powered websites for small businesses. My clients love how professional the sites look and trust me more than ever.",
+    image: "https://images.pexels.com/photos/9755237/pexels-photo-9755237.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Fatima Ibrahim",
+    location: "Kano, Nigeria",
+    earnings: "₦950,000/month",
+    text: "As a mother of three, this course gave me the financial independence I never thought possible. I now sell digital products online and earn ₦950,000 monthly.",
+    image: "https://images.pexels.com/photos/31686595/pexels-photo-31686595.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Bongani Dlamini",
+    location: "Cape Town, South Africa",
+    earnings: "R40,000/month",
+    text: "I learned how to build websites and now I earn R40,000 per month. Clients trust me more now that I have a professional-looking site and portfolio.",
+    image: "https://images.pexels.com/photos/691989/pexels-photo-691989.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Nia Wambua",
+    location: "Nairobi, Kenya",
+    earnings: "KSh150,000/month",
+    text: "I used to work in a small shop. Now I make KSh150,000 a month with my own AI-powered website. It made me look credible and helped me gain loyal customers.",
+    image: "https://images.pexels.com/photos/16679320/pexels-photo-16679320.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Chinedu Eze",
+    location: "Port Harcourt, Nigeria",
+    earnings: "₦1,200,000/month",
+    text: "I used to do odd jobs, but now I build websites for clients and earn ₦1.2M every month. My website made people see me as a real professional.",
+    image: "https://images.pexels.com/photos/3556533/pexels-photo-3556533.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  },
+  {
+    name: "Ama Serwaa",
+    location: "Ho, Ghana",
+    earnings: "GH₵7,500/month",
+    text: "I learned AI from scratch and now earn GH₵7,500 monthly by selling digital courses online. A good website made my brand look credible and trustworthy.",
+    image: "https://images.pexels.com/photos/30957220/pexels-photo-30957220.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+  }
+];
+
+  
+/*const testimonials = [
   {
     name: "Adunni Okafor",
     location: "Lagos, Nigeria",
@@ -125,7 +185,7 @@ const testimonials = [
     text: "The step-by-step approach made it so easy. I now earn ₦1.2M monthly building websites for clients. My site gave me credibility and more leads.",
     image: "https://images.pexels.com/photos/33022043/pexels-photo-33022043.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
-  /*{
+  {
     name: "Thabo Mokoena",
     location: "Pretoria, South Africa",
     earnings: "R32,000/month",
@@ -159,7 +219,7 @@ const testimonials = [
     earnings: "KSh100,000/month",
     text: "I used to teach part-time. Now I run my own AI business and earn KSh100,000 monthly. My website made clients trust me and pay more for my services.",
     image: "https://images.pexels.com/photos/2660372/pexels-photo-2660372.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
-  },*/
+  },
   {
     name: "Kwame Addo",
     location: "Cape Coast, Ghana",
@@ -181,7 +241,7 @@ const testimonials = [
     text: "I'm a single mom and this course gave me the power to earn R28,000 monthly from my own online store. My website made customers trust me more.",
     image: "https://images.pexels.com/photos/7198430/pexels-photo-7198430.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   }
-];
+];*/
 
   useEffect(() => {
     const interval = setInterval(() => {
