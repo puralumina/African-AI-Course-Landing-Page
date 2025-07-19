@@ -95,7 +95,7 @@ const testimonials = [
     location: "Port Harcourt, Nigeria",
     earnings: "₦1,200,000/month",
     text: "I used to do odd jobs, but now I build websites for clients and earn ₦1.2M every month. My website made people see me as a real professional.",
-    image: "https://images.pexels.com/photos/1040881/pexels-photo-1040881.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/3556533/pexels-photo-3556533.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Esther Wambua",
