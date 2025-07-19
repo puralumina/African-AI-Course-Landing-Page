@@ -172,7 +172,7 @@ const testimonials = [
     location: "Kano, Nigeria",
     earnings: "₦950,000/month",
     text: "As a mother of three, this course gave me the financial independence I never thought possible. I now sell digital products online and earn ₦950,000 monthly.",
-    image: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/31686595/pexels-photo-31686595.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Nomvula Khumalo",
