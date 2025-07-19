@@ -99,7 +99,7 @@ const Introduction = () => {
           <div className="space-y-6">
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+                src="../wise1.jpg"
                 alt="Emmanuel - Course Creator"
                 className="w-64 h-64 rounded-xl mx-auto lg:mx-0 object-cover shadow-2xl"
               />
