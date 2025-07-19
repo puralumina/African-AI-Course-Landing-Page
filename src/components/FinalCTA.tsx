@@ -12,7 +12,7 @@ const FinalCTA = () => {
 
   // Countdown Timer Logic
   const [timeLeft, setTimeLeft] = useState({
-    hours: 19,
+    hours: 22,
     minutes: 26,
     seconds: 18,
   });
