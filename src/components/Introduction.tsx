@@ -32,7 +32,7 @@ const testimonials = [
     location: "Eldoret, Kenya",
     earnings: "KSh95,000/month",
     text: "As a student, I never thought I'd earn KSh95,000 online. I now build websites for freelancers and they say my work makes them look more professional and trustworthy.",
-    image: "https://images.pexels.com/photos/3775087/pexels-photo-3775087.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/1407807/pexels-photo-1407807.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Ugochukwu Mbadiwe",
