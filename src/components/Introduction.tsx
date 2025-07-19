@@ -46,7 +46,7 @@ const testimonials = [
     location: "Ho, Ghana",
     earnings: "GH₵7,500/month",
     text: "I learned AI from scratch and now earn GH₵7,500 monthly by selling digital courses online. A good website made my brand look credible and trustworthy.",
-    image: "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/30957220/pexels-photo-30957220.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Thandiwe Zulu",
