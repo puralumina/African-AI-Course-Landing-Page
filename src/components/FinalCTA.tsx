@@ -91,10 +91,6 @@ const FinalCTA = () => {
               <div className="text-lg opacity-90">One-time payment • Lifetime access</div>
               <div className="text-xl font-bold text-orange-400 mb-2">Save $350 Today (87% OFF)</div>
             </div>
-
-            <div className="bg-green-500 text-white px-4 py-2 rounded-lg inline-block font-semibold">
-              Save $350 Today (87% OFF)
-            </div>
           </div>
 
           {/* Main CTA Button */}
