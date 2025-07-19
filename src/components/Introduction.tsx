@@ -11,21 +11,21 @@ const testimonials = [
     location: "Lagos, Nigeria",
     earnings: "₦800,000/month",
     text: "In just my first month, I made ₦800,000 building websites for local businesses. Having a professional portfolio instantly made clients trust me more and I started getting leads daily.",
-    image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Kwame Boateng",
     location: "Accra, Ghana",
     earnings: "GH₵12,000/month",
     text: "I now earn GH₵12,000 monthly by building AI-powered websites for small businesses. My clients love how professional the sites look and trust me more than ever.",
-    image: " https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: " https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Sandile Khumalo",
     location: "East London, South Africa",
     earnings: "R13,200/month",
     text: "After being jobless for two years, I built my own online store and earned R13,200 in my first month selling handmade crafts. A professional website made all the difference.",
-    image: " https://images.pexels.com/photos/757891/pexels-photo-757891.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: " https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Linet Chepkoech",
@@ -46,7 +46,7 @@ const testimonials = [
     location: "Ho, Ghana",
     earnings: "GH₵7,500/month",
     text: "I learned AI from scratch and now earn GH₵7,500 monthly by selling digital courses online. A good website made my brand look credible and trustworthy.",
-    image: " https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: " https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Thandiwe Zulu",
@@ -60,14 +60,14 @@ const testimonials = [
     location: "Kisumu, Kenya",
     earnings: "KSh85,000/month",
     text: "I dropped out of school but now I earn KSh85,000 monthly building websites for local startups. My website made people believe in me and my skills.",
-    image: " https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: " https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Nana Yaa Boateng",
     location: "Suhum, Ghana",
     earnings: "GH₵7,500/month",
     text: "I started learning AI at 19 and now earn GH₵7,500 monthly by selling digital tools online. A clean, professional website gave me instant credibility.",
-    image: " https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: " https://images.pexels.com/photos/226458/pexels-photo-226458.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Chioma Nwankwo",
@@ -165,7 +165,7 @@ const testimonials = [
     location: "Cape Coast, Ghana",
     earnings: "GH₵6,800/month",
     text: "I'm a student but now I earn GH₵6,800 monthly by selling digital tools online. A professional website gave me the credibility I needed to grow.",
-    image: " https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: " https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Fatima Ibrahim",
