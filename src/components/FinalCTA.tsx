@@ -106,6 +106,18 @@ const FinalCTA = () => {
             Get Instant Access Now
           </a>
 
+          {/* Security Badges */}
+          <div className="flex items-center justify-center space-x-6 text-sm opacity-75">
+            <div className="flex items-center">
+              <Shield className="h-5 w-5 mr-2" />
+              <span>Secure Payment</span>
+            </div>
+            <div className="flex items-center">
+              <CheckCircle className="h-5 w-5 mr-2" />
+              <span>30-Day Money-Back Guarantee</span>
+            </div>
+          </div><br></br><br></br>
+
           <h2 className="text-4xl md:text-6xl font-bold mb-6">
             Transform Your Life Today
           </h2>
