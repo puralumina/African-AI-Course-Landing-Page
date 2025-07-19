@@ -102,7 +102,7 @@ const testimonials = [
     location: "Machakos, Kenya",
     earnings: "KSh78,000/month",
     text: "I used to work at a small kiosk. Now I run my own online store and earn KSh78,000 monthly. My website made customers trust me more and buy with confidence.",
-    image: "https://images.pexels.com/photos/3211476/pexels-photo-3211476.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/23489492/pexels-photo-23489492.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Bongani Dlamini",
