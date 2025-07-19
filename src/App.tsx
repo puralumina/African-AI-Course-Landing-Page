@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import { trackSearch } from './services/tracking';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Introduction from './components/Introduction';
@@ -25,27 +24,6 @@ function App() {
         }
       }
     };
-
-  const handleSearch = async (searchTerm: string, countryCode: string) => {
-    setLoading(true);
-    setError(null);
-    setHasSearched(true);
-    setLastSearch({ term: searchTerm, country: countryCode });
-
-    // Track search event across all platforms
-    trackSearch(searchTerm, countryCode);
-
-    try {
-      const response = await searchAds(searchTerm, countryCode);
-      setAds(response.data || []);
-    } catch (err) {
-      const errorMessage = err instanceof Error ? err.message : 'An unknown error occurred';
-      setError(errorMessage);
-      setAds([]);
-    } finally {
-      setLoading(false);
-    }
-  };
 
     // Add event listeners to all anchor links
     const links = document.querySelectorAll('a[href^="#"]');
