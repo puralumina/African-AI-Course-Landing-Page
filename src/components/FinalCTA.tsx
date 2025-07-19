@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Gift, Clock, CheckCircle, Shield } from 'lucide-react';
 
 const FinalCTA = () => {
@@ -10,10 +10,41 @@ const FinalCTA = () => {
     "Lifetime access to all course materials and future updates"
   ];
 
+  // Countdown Timer Logic
+  const [timeLeft, setTimeLeft] = useState({
+    hours: 48,
+    minutes: 0,
+    seconds: 0,
+  });
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setTimeLeft((prev) => {
+        const totalSeconds = prev.hours * 3600 + prev.minutes * 60 + prev.seconds - 1;
+
+        if (totalSeconds <= 0) {
+          clearInterval(timer);
+          return { hours: 0, minutes: 0, seconds: 0 };
+        }
+
+        const hours = Math.floor(totalSeconds / 3600);
+        const minutes = Math.floor((totalSeconds % 3600) / 60);
+        const seconds = totalSeconds % 60;
+
+        return { hours, minutes, seconds };
+      });
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, []);
+
+  const formatTime = (value) => String(value).padStart(2, '0');
+
   return (
     <section id="final-cta" className="py-16 bg-gradient-to-br from-black to-orange-700 text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
+
           {/* Limited Time Offer Badge */}
           <div className="inline-flex items-center bg-orange-500 text-white px-6 py-3 rounded-full mb-8 animate-pulse">
             <Gift className="h-5 w-5 mr-2" />
@@ -40,7 +71,7 @@ const FinalCTA = () => {
 
           {/* Main CTA Button */}
           <a 
-            href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05"
+            href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05 "
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-500 hover:bg-green-600 text-white px-12 py-6 rounded-xl font-bold text-2xl transition-all duration-200 transform hover:scale-105 shadow-2xl mb-6 w-full sm:w-auto text-center"
@@ -60,13 +91,30 @@ const FinalCTA = () => {
             </div>
           </div><br></br><br></br>
 
-          {/* Pricing */}
+          {/* Pricing with Countdown */}
           <div className="bg-white bg-opacity-15 rounded-2xl p-8 mb-8">
             <div className="flex items-center justify-center mb-6">
               <Clock className="h-6 w-6 mr-2 text-orange-400" />
-              <span className="text-lg font-semibold">Offer expires in 48 hours</span>
+              <span className="text-lg font-semibold">Offer expires in:</span>
             </div>
             
+            <div className="flex justify-center gap-4 text-4xl font-bold text-orange-400 mb-6">
+              <div className="text-center">
+                <div>{formatTime(timeLeft.hours)}</div>
+                <div className="text-sm opacity-75">Hrs</div>
+              </div>
+              <div>:</div>
+              <div className="text-center">
+                <div>{formatTime(timeLeft.minutes)}</div>
+                <div className="text-sm opacity-75">Mins</div>
+              </div>
+              <div>:</div>
+              <div className="text-center">
+                <div>{formatTime(timeLeft.seconds)}</div>
+                <div className="text-sm opacity-75">Secs</div>
+              </div>
+            </div>
+
             <div className="text-center mb-6">
               <div className="text-2xl opacity-75 line-through">Regular Price: $399</div>
               <div className="text-8xl font-bold text-orange-400 mb-2">$49</div>
@@ -90,7 +138,7 @@ const FinalCTA = () => {
 
           {/* Main CTA Button */}
           <a 
-            href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05"
+            href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05 "
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-500 hover:bg-green-600 text-white px-12 py-6 rounded-xl font-bold text-2xl transition-all duration-200 transform hover:scale-105 shadow-2xl mb-6 w-full sm:w-auto text-center"
