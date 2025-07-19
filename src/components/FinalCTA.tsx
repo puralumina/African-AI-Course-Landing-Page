@@ -136,63 +136,6 @@ const FinalCTA = () => {
             </p>
           </div><br></br>
 
-          {/* Main CTA Button */}
-          <a 
-            href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05 "
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block bg-green-500 hover:bg-green-600 text-white px-12 py-6 rounded-xl font-bold text-2xl transition-all duration-200 transform hover:scale-105 shadow-2xl mb-6 w-full sm:w-auto text-center"
-          >
-            Get Instant Access Now
-          </a>
-
-          {/* Security Badges */}
-          <div className="flex items-center justify-center space-x-6 text-sm opacity-75">
-            <div className="flex items-center">
-              <Shield className="h-5 w-5 mr-2" />
-              <span>Secure Payment</span>
-            </div>
-            <div className="flex items-center">
-              <CheckCircle className="h-5 w-5 mr-2" />
-              <span>30-Day Money-Back Guarantee</span>
-            </div>
-          </div><br></br><br></br>
-
-          {/* Pricing with Countdown */}
-          <div className="bg-white bg-opacity-15 rounded-2xl p-8 mb-8">
-            <div className="flex items-center justify-center mb-6">
-              <Clock className="h-6 w-6 mr-2 text-orange-400" />
-              <span className="text-lg font-semibold">Offer expires in:</span>
-            </div>
-            
-            <div className="flex justify-center gap-4 text-4xl font-bold text-white-400 mb-6">
-              <div className="text-center">
-                <div>{formatTime(timeLeft.hours)}</div>
-                <div className="text-sm opacity-75">Hrs</div>
-              </div>
-              <div>:</div>
-              <div className="text-center">
-                <div>{formatTime(timeLeft.minutes)}</div>
-                <div className="text-sm opacity-75">Mins</div>
-              </div>
-              <div>:</div>
-              <div className="text-center">
-                <div>{formatTime(timeLeft.seconds)}</div>
-                <div className="text-sm opacity-75">Secs</div>
-              </div>
-            </div>
-
-            <div className="text-center mb-6">
-              <div className="text-2xl opacity-75 line-through">Regular Price: $399</div>
-              <div className="text-8xl font-bold text-orange-400 mb-2">$49</div>
-              <div className="text-lg opacity-90">One-time payment • Lifetime access</div>
-            </div>
-
-            <div className="bg-green-500 text-white px-4 py-2 rounded-lg inline-block font-semibold">
-              Save $350 Today (90% OFF)
-            </div>
-          </div>
-
           {/* Benefits Checklist */}
           <div className="space-y-4 mb-8">
             {benefits.map((benefit, index) => (
