@@ -130,7 +130,7 @@ const testimonials = [
     location: "Pretoria, South Africa",
     earnings: "R32,000/month",
     text: "I learned AI website development in just 3 months and now earn R32,000 monthly. Clients trust me more now that I have a professional-looking site.",
-    image: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/2566904/pexels-photo-2566904.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Nia Wambua",
