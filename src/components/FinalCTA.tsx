@@ -51,6 +51,41 @@ const FinalCTA = () => {
             <span className="font-bold">LIMITED TIME OFFER</span>
           </div>
 
+          {/* Pricing with Countdown */}
+          <div className="bg-white bg-opacity-15 rounded-2xl p-8 mb-8">
+            <div className="flex items-center justify-center mb-6">
+              <Clock className="h-6 w-6 mr-2 text-orange-400" />
+              <span className="text-lg font-semibold">Offer expires in:</span>
+            </div>
+            
+            <div className="flex justify-center gap-4 text-4xl font-bold text-white-400 mb-6">
+              <div className="text-center">
+                <div>{formatTime(timeLeft.hours)}</div>
+                <div className="text-sm opacity-75">Hrs</div>
+              </div>
+              <div>:</div>
+              <div className="text-center">
+                <div>{formatTime(timeLeft.minutes)}</div>
+                <div className="text-sm opacity-75">Mins</div>
+              </div>
+              <div>:</div>
+              <div className="text-center">
+                <div>{formatTime(timeLeft.seconds)}</div>
+                <div className="text-sm opacity-75">Secs</div>
+              </div>
+            </div>
+
+            <div className="text-center mb-6">
+              <div className="text-2xl opacity-75 line-through">Regular Price: $399</div>
+              <div className="text-8xl font-bold text-orange-400 mb-2">$49</div>
+              <div className="text-lg opacity-90">One-time payment • Lifetime access</div>
+            </div>
+
+            <div className="bg-green-500 text-white px-4 py-2 rounded-lg inline-block font-semibold">
+              Save $350 Today (90% OFF)
+            </div>
+          </div>
+
           <h2 className="text-4xl md:text-6xl font-bold mb-6">
             Transform Your Life Today
           </h2>
