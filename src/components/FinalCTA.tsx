@@ -51,6 +51,16 @@ const FinalCTA = () => {
             <span className="font-bold">LIMITED TIME OFFER</span>
           </div>
 
+          {/* Urgency Message */}
+          <div className="mt-8 bg-red-500 bg-opacity-20 border border-red-400 rounded-lg p-4">
+            <p className="text-lg font-semibold">
+              ⚠️ Only 13/100 spots remaining at this special price of $49!
+            </p>
+            <p className="text-sm opacity-90 mt-2">
+              Price increases to $399 after this promotion ends
+            </p>
+          </div><br></br>
+
           {/* Pricing with Countdown */}
           <div className="bg-white bg-opacity-15 rounded-2xl p-8 mb-8">
             <div className="flex items-center justify-center mb-6">
