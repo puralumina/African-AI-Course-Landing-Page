@@ -132,7 +132,7 @@ const SocialProof = () => {
         </div>
 
         {/* Additional Social Proof */}
-        <div className="mt-16 bg-gradient-to-r from-green-500 to-blue-500 rounded-2xl p-8 text-white text-center">
+        <div className="mt-16 bg-gradient-to-r from-orange-500 to-amber-500 rounded-2xl p-8 text-white text-center">
           <h3 className="text-3xl font-bold mb-4">Join the Success Community</h3>
           <p className="text-xl opacity-90 mb-6">
             Over 2000 Nigerians have already transformed their lives. You could be next!
