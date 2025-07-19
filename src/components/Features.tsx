@@ -6,19 +6,19 @@ const Features = () => {
     {
       icon: <TrendingUp className="h-12 w-12 text-green-500" />,
       title: "Beat Poverty",
-      description: "Break free from financial struggles with proven AI website strategies that generate consistent monthly income of $5,000+",
+      description: "Break free from financial struggles with proven AI website strategies that generate consistent monthly income of $4,000+",
       stats: "95% of students see income increase within 1 week"
     },
     {
       icon: <Zap className="h-12 w-12 text-yellow-500" />,
       title: "Effortless Scaling",
       description: "Scale your website business automatically with free AI tools that work 24/7, allowing you to earn while you sleep",
-      stats: "Students average 300% growth in first 2 months"
+      stats: "Students average 300% growth in their first week"
     },
     {
       icon: <MapPin className="h-12 w-12 text-blue-500" />,
       title: "For Africans, By an African",
-      description: "Strategies specifically designed for the African market, with local payment methods, audience insights, and cultural understanding",
+      description: "Strategies specifically designed for the African market, with local payment methods, and cultural understanding",
       stats: "Tailored for African economy and opportunities"
     },
     {
