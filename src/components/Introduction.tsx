@@ -116,7 +116,7 @@ const testimonials = [
     location: "Tamale, Ghana",
     earnings: "GH₵8,000/month",
     text: "I'm a hairdresser by trade but now I earn GH₵8,000 a month by selling online courses. My website made my brand look professional and trustworthy.",
-    image: "https://images.pexels.com/photos/2709388/pexels-photo-2709388.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/27758137/pexels-photo-27758137.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Chukwuma Nwosu",
