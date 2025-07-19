@@ -98,7 +98,7 @@ const FinalCTA = () => {
               <span className="text-lg font-semibold">Offer expires in:</span>
             </div>
             
-            <div className="flex justify-center gap-4 text-4xl font-bold text-orange-400 mb-6">
+            <div className="flex justify-center gap-4 text-4xl font-bold text-white-400 mb-6">
               <div className="text-center">
                 <div>{formatTime(timeLeft.hours)}</div>
                 <div className="text-sm opacity-75">Hrs</div>
