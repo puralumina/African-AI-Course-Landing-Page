@@ -96,6 +96,16 @@ const FinalCTA = () => {
             </div>
           </div>
 
+          {/* Main CTA Button */}
+          <a 
+            href="https://buy.stripe.com/28E4gzeKH1x1dyB2TM8Zq05 "
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-green-500 hover:bg-green-600 text-white px-12 py-6 rounded-xl font-bold text-2xl transition-all duration-200 transform hover:scale-105 shadow-2xl mb-6 w-full sm:w-auto text-center"
+          >
+            Get Instant Access Now
+          </a>
+
           <h2 className="text-4xl md:text-6xl font-bold mb-6">
             Transform Your Life Today
           </h2>
