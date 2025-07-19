@@ -179,7 +179,7 @@ const testimonials = [
     location: "Durban, South Africa",
     earnings: "R28,000/month",
     text: "I'm a single mom and this course gave me the power to earn R28,000 monthly from my own online store. My website made customers trust me more.",
-    image: "https://images.pexels.com/photos/38554/girl-people-landscape-sun-38554.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/7198430/pexels-photo-7198430.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   }
 ];
 
