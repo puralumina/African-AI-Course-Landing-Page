@@ -165,7 +165,7 @@ const testimonials = [
     location: "Cape Coast, Ghana",
     earnings: "GH₵6,800/month",
     text: "I'm a student but now I earn GH₵6,800 monthly by selling digital tools online. A professional website gave me the credibility I needed to grow.",
-    image: "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/16206503/pexels-photo-16206503.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Fatima Ibrahim",
