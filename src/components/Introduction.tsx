@@ -137,7 +137,7 @@ const testimonials = [
     location: "Nairobi, Kenya",
     earnings: "KSh150,000/month",
     text: "I used to work in a small shop. Now I make KSh150,000 a month with my own AI-powered website. It made me look credible and helped me gain loyal customers.",
-    image: "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/16679320/pexels-photo-16679320.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Ify Okoro",
