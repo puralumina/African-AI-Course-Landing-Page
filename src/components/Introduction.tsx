@@ -67,7 +67,7 @@ const testimonials = [
     location: "Suhum, Ghana",
     earnings: "GH₵7,500/month",
     text: "I started learning AI at 19 and now earn GH₵7,500 monthly by selling digital tools online. A clean, professional website gave me instant credibility.",
-    image: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/27948344/pexels-photo-27948344.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Chioma Nwankwo",
