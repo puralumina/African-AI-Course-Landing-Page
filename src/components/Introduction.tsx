@@ -18,7 +18,7 @@ const testimonials = [
     location: "Accra, Ghana",
     earnings: "GH₵12,000/month",
     text: "I now earn GH₵12,000 monthly by building AI-powered websites for small businesses. My clients love how professional the sites look and trust me more than ever.",
-    image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/9755237/pexels-photo-9755237.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Sandile Khumalo",
