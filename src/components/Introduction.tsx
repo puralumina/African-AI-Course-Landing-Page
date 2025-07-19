@@ -158,7 +158,7 @@ const testimonials = [
     location: "Nakuru, Kenya",
     earnings: "KSh100,000/month",
     text: "I used to teach part-time. Now I run my own AI business and earn KSh100,000 monthly. My website made clients trust me and pay more for my services.",
-    image: "https://images.pexels.com/photos/2092709/pexels-photo-2092709.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/2660372/pexels-photo-2660372.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Kwame Addo",
