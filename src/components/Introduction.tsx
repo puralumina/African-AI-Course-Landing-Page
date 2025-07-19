@@ -144,7 +144,7 @@ const testimonials = [
     location: "Benin City, Nigeria",
     earnings: "₦800,000/month",
     text: "I was stuck in a dead-end job. Now I earn ₦800,000 monthly from my own online store. My website gave me the credibility to start my own business.",
-    image: "https://images.pexels.com/photos/32989017/pexels-photo-32989017.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/32617404/pexels-photo-32617404.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Omondi Okello",
