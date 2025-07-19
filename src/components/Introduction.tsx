@@ -272,9 +272,7 @@ const testimonials = [
                 Hi, I'm <span className="text-orange-500">Wise Stephen</span>
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed mb-6">
-                I've been helping Africans build successful online businesses for over 5 years. 
-                After discovering the power of AI for website creation, I've helped thousands of 
-                students earn life-changing income building website for their online presence or for businesses or even building to sell their products or services in 5 minutes using AI. All this using free tools. Yes your heard well, the secret hidden tools i will give you are free and revolutionary.
+                For over five years, I’ve helped thousands of students launch online businesses, land clients, and earn life-changing income. After discovering the power of AI, I started teaching Africans how to build professional websites in 5 minutes using powerful and completely free AI tools. You'll learn to create stunning sites for launching your brand, selling products, or offering high-demand services to clients. I’ll reveal the powerful, hidden-gem AI tools the pros use. I will show you my entire workflow plus lots of bonuses. If you want to make real money so fast and in less than a week, this course is for you. Spots at this special discount are limited and once we hit. Enroll now, and you could land your first paying client in as little as 24 hours.
               </p>
               <div className="flex items-center justify-center lg:justify-start gap-4">
                 <div className="text-center">
