@@ -39,7 +39,7 @@ const testimonials = [
     location: "Onitsha, Nigeria",
     earnings: "₦680,000/month",
     text: "I used to be a mechanic. Now I build websites for clients and earn ₦680,000 monthly. My professional website helped me attract better-paying clients.",
-    image: "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
+    image: "https://images.pexels.com/photos/33044980/pexels-photo-33044980.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop"
   },
   {
     name: "Ama Serwaa",
