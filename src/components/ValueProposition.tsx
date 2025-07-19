@@ -99,12 +99,12 @@ const ValueProposition = () => {
                 <div className="text-sm opacity-75">Income Increase</div>
               </div>
               <div className="bg-white bg-opacity-20 rounded-lg p-4 text-center">
-                <div className="text-3xl font-bold">15</div>
+                <div className="text-3xl font-bold">5</div>
                 <div className="text-sm opacity-75">Hours/Week</div>
               </div>
               <div className="bg-white bg-opacity-20 rounded-lg p-4 text-center">
-                <div className="text-3xl font-bold">6</div>
-                <div className="text-sm opacity-75">Months to Success</div>
+                <div className="text-3xl font-bold">1</div>
+                <div className="text-sm opacity-75">Week to Success</div>
               </div>
             </div>
           </div>
